@@ -1,0 +1,7 @@
+Exception: STATUS_ACCESS_VIOLATION at eip=61138E84
+eax=00000079 ebx=00000073 ecx=FFFFFFFE edx=8003828A esi=611849BF edi=61188CD0
+ebp=00000000 esp=002896B0 program=C:\cygwin\home\ISHIKAWA RYUDAI\work\c\mondai1_4.exe, pid 7204, thread main
+cs=0023 ds=002B es=002B fs=0053 gs=002B ss=002B
+Stack trace:
+Frame     Function  Args
+End of stack trace

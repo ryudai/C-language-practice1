@@ -1,0 +1,7 @@
+Exception: STATUS_ACCESS_VIOLATION at eip=61139C3D
+eax=611A1F8E ebx=0028AC28 ecx=00000001 edx=00000064 esi=0028986E edi=61188CD0
+ebp=00000000 esp=002896B0 program=C:\cygwin\home\ISHIKAWA RYUDAI\work\c\sample1.exe, pid 8392, thread main
+cs=0023 ds=002B es=002B fs=0053 gs=002B ss=002B
+Stack trace:
+Frame     Function  Args
+End of stack trace
